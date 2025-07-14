@@ -42,6 +42,7 @@ I specialize in building **Flutter apps**, **custom PHP platforms**, and fully S
 - 🏢 [The Org](https://theorg.com/org/khoj-samachar/org-chart/roshan-shrestha)
 - 📚 [Linktree](https://linktr.ee/roshanshresthaofficial)
 - 📰 [Medium](https://medium.com/@roshanjourno)
+- 🧭 [About.me](https://about.me/roshan-shrestha-journalist) 
 - 🗣 [Truth Social](https://truthsocial.com/@roshanshrestha)
 
 
