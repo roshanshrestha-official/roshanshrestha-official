@@ -33,17 +33,15 @@ I specialize in building **Flutter apps**, **custom PHP platforms**, and fully S
 
 - 🐦 [Twitter](https://x.com/roshantwit3)
 - 💬 [Mastodon](https://mastodon.social/@roshanshrestha)
-- 👥 [Facebook (Profile)](https://www.facebook.com/roshanshrestha44)
+- 👥 [Facebook (Profile)](https://www.facebook.com/roshanshresthaofficial)
 - 📸[Instagram](https://www.instagram.com/roshanshrestha.ig/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/roshanshresthaofficial/)
-- 📺 [YouTube Channel](https://www.youtube.com/@roshanshrestha9)
+- 📺 [YouTube Channel](https://www.youtube.com/@roshanshrestha-official)
 - 🗣 [Truth Social](https://truthsocial.com/@roshanshrestha)
 
 ---
 
 ### 📧 Contact
-
-- 📩 Email: [talk.rosha@gmail.com](mailto:talk.rosha@gmail.com)
 - 🌍 Website: [https://roshanstha.com](https://roshanstha.com)
 
 ---
