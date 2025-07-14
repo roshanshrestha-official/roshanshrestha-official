@@ -44,6 +44,7 @@ I specialize in building **Flutter apps**, **custom PHP platforms**, and fully S
 - 📰 [Medium](https://medium.com/@roshanjourno)
 - 🧭 [About.me](https://about.me/roshan-shrestha-journalist)
 - 💬 [authory](https://authory.com/RoshanShrestha)
+- 💬 [journoportfolio](https://roshanshrestha.journoportfolio.com/)
 - 🗣 [Truth Social](https://truthsocial.com/@roshanshrestha)
 
 
