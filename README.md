@@ -29,15 +29,19 @@ I specialize in building **Flutter apps**, **custom PHP platforms**, and fully S
 
 ---
 
-### 🔗 Social Media
+### 🔗 Social Media & Verified Profiles
 
+- 📰 [Muck Rack](https://muckrack.com/roshan-shrestha)
 - 🐦 [Twitter](https://x.com/roshantwit3)
 - 💬 [Mastodon](https://mastodon.social/@roshanshrestha)
 - 👥 [Facebook (Profile)](https://www.facebook.com/roshanshresthaofficial)
-- 📸[Instagram](https://www.instagram.com/roshanshrestha.ig/)
+- 📸 [Instagram](https://www.instagram.com/roshanshrestha.ig/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/roshanshresthaofficial/)
 - 📺 [YouTube Channel](https://www.youtube.com/@roshanshrestha-official)
+- 🌐 [Gravatar](https://gravatar.com/roshanshresthajournalist)
+- 🏢 [The Org](https://theorg.com/org/khoj-samachar/org-chart/roshan-shrestha)
 - 🗣 [Truth Social](https://truthsocial.com/@roshanshrestha)
+
 
 ---
 
