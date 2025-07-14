@@ -34,7 +34,7 @@ I specialize in building **Flutter apps**, **custom PHP platforms**, and fully S
 - 📰 [Muck Rack](https://muckrack.com/roshan-shrestha)
 - 🐦 [Twitter](https://x.com/roshantwit3)
 - 💬 [Mastodon](https://mastodon.social/@roshanshrestha)
-- 👥 [Facebook (Profile)](https://www.facebook.com/roshanshresthaofficial)
+- 👥 [Facebook](https://www.facebook.com/roshanshresthaofficial)
 - 📸 [Instagram](https://www.instagram.com/roshanshrestha.ig/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/roshanshresthaofficial/)
 - 📺 [YouTube Channel](https://www.youtube.com/@roshanshrestha-official)
