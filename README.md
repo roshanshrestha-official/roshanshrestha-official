@@ -40,6 +40,7 @@ I specialize in building **Flutter apps**, **custom PHP platforms**, and fully S
 - 📺 [YouTube Channel](https://www.youtube.com/@roshanshrestha-official)
 - 🌐 [Gravatar](https://gravatar.com/roshanshresthajournalist)
 - 🏢 [The Org](https://theorg.com/org/khoj-samachar/org-chart/roshan-shrestha)
+- 📚 [Linktree](https://linktr.ee/roshanshresthaofficial)
 - 🗣 [Truth Social](https://truthsocial.com/@roshanshrestha)
 
 
