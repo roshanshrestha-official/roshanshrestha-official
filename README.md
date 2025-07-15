@@ -1,9 +1,20 @@
 # 👋 Namaste! I'm Roshan Shrestha
 
 I’m a Nepali investigative journalist and full-stack developer based in Nepal.  
-Founder of **Khoj Samachar**, **Wikinp**, and the **Roshan Shrestha App**, I work at the intersection of journalism, technology, and civic knowledge.
+Founder of **Khoj Samachar** and the **Roshan Shrestha App**, I work at the intersection of journalism, technology, and civic knowledge.
 
-I specialize in building **Flutter apps**, **custom PHP platforms**, and fully SEO-optimized, mobile-first websites.
+---
+
+## 🧭 About Me
+
+I was born on **October 14, 1996** (Aswin 28, 2053 B.S.) in **Hundung, Bahrabise Municipality-7, Sindhupalchok, Nepal**.  
+I completed my schooling (Grade 4–12) from **Shree Bachchhala Devi Higher Secondary School**, Nagpuje, Sindhupalchok.
+
+I started my journey as a civic journalist during the 2015 earthquake, using digital tools to tell stories from disaster-hit areas.  
+In 2078 B.S., I founded **Khoj Samachar** — now one of Nepal’s fastest-growing digital news platforms — with over 900,000 followers.
+
+I'm also the creator of the **Roshan Shrestha App**, a civic news and public service app with **100,000+ downloads** and **10,500+ five-star ratings** on the Google Play Store.  
+My mission is to make authentic news accessible, build digital awareness, and challenge misinformation.
 
 ---
 
