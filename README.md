@@ -1,70 +1,99 @@
 # 👋 Namaste! I'm Roshan Shrestha
 
-I’m a Nepali investigative journalist and full-stack developer based in Nepal.  
-Founder of **Khoj Samachar** and the **Roshan Shrestha App**, I work at the intersection of journalism, technology, and civic knowledge.
+I’m a **Nepali investigative journalist, author, and digital media entrepreneur** from **Bahrabise, Sindhupalchok District, Nepal**.  
+Born on **October 14, 1996**, I’m the **Founder & Editor-in-Chief of [Khoj Samachar](https://khojsamachar.com)**,  
+the **Initiator of [WikiNP](https://wikinp.org)** — Nepal’s first community-driven open knowledge platform —  
+and the **Creator of the [Roshan Shrestha App](https://play.google.com/store/apps/details?id=com.roshan.shrestha.roshan)**,  
+which promotes verified journalism, civic awareness, and digital transparency.
+
+I’m known for my **fearless reporting on corruption, youth empowerment, and the promotion of digital literacy in Nepal**.
 
 ---
 
-## 🧭 About Me
+## 🧭 About Me  
 
-I was born on **October 14, 1996** (Aswin 28, 2053 B.S.) in **Hundung, Bahrabise Municipality-7, Sindhupalchok, Nepal**.  
-I completed my schooling (Grade 4–12) from **Shree Bachchhala Devi Higher Secondary School**, Nagpuje, Sindhupalchok.
+📍 **Birthplace:** Bahrabise, Sindhupalchok District, Nepal  
+🎓 **Education:** *Shree Bachchhala Devi Higher Secondary School*, Nagpuje, Sindhupalchok  
+🗓 **Born:** 14 October 1996 (Aswin 28, 2053 B.S.)  
 
-I started my journey as a civic journalist during the 2015 earthquake, using digital tools to tell stories from disaster-hit areas.  
-In 2078 B.S., I founded **Khoj Samachar** — now one of Nepal’s fastest-growing digital news platforms — with over 900,000 followers.
+I began my journey as a civic journalist during Nepal’s 2015 earthquake, documenting stories from disaster-hit areas using digital media.  
+In 2078 B.S., I founded **Khoj Samachar**, which today reaches over **900,000 verified readers** across Nepal and abroad.  
 
-I'm also the creator of the **Roshan Shrestha App**, a civic news and public service app with **100,000+ downloads** and **10,500+ five-star ratings** on the Google Play Store.  
-My mission is to make authentic news accessible, build digital awareness, and challenge misinformation.
+In 2025, I authored two nonfiction books —  
+📘 *The Digital Voice of Nepal* and 📕 *KhojX: News Age* — exploring truth, media transparency, and youth participation in Nepal’s digital era.  
+
+My goal is to build a transparent, tech-empowered society by combining journalism with civic technology.
 
 ---
 
-### 📰 Notable Projects
+## 📰 Notable Projects  
 
-- 🌐 [Khoj Samachar (English)](https://english.khojsamachar.com) – Independent global news in English  
-- 📰 [Khoj Samachar (Nepali)](https://khojsamachar.com) – Trusted Nepali-language journalism  
-- 📚 [Wikinp.org](https://wikinp.org) – knowledge in the Nepali context  
-- 📱 [Roshan Shrestha App (Play Store)](https://play.google.com/store/apps/details?id=com.roshan.shrestha.roshan)  
+- 🌐 [Khoj Samachar (English)](https://english.khojsamachar.com) — Independent global news platform  
+- 📰 [Khoj Samachar (Nepali)](https://khojsamachar.com) — Trusted Nepali-language journalism  
+- 📚 [WikiNP.org](https://wikinp.org) — Nepal’s open digital encyclopedia  
+- 📱 [Roshan Shrestha App (Google Play)](https://play.google.com/store/apps/details?id=com.roshan.shrestha.roshan)  
 - 📱 [Roshan Shrestha App (App Store)](https://apps.apple.com/in/app/roshan-shrestha/id6741786030)  
-- 👤 [roshanstha.com](https://roshanstha.com) – My official personal website
+- 📘 [The Digital Voice of Nepal](https://books.google.com/books/about?id=VWOOEQAAQBAJ)  
+- 📕 [KhojX: News Age](https://books.google.co.in/books?id=EaqQEQAAQBAJ&newbks=0&dq=khojx&source=gbs_navlinks_s)  
+- 🌍 [Official Website – roshanstha.com](https://roshanstha.com)
 
 ---
 
-### 🧠 Knowledge Sources
+## 📚 Author & Research Profiles  
 
-- 🟩 [रोशन श्रेष्ठ (Wikipedia – Newar)](https://new.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8_%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%A0)
-- 🟨 [रोशन श्रेष्ठ (Wikipedia – Maithili)](https://mai.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8_%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%A0)
-- 🟪 [रोशन श्रेष्ठ (Wikipedia – Doteli)](https://dty.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8_%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%A0)
-- 🟦 [Wikidata](https://www.wikidata.org/wiki/Q134291151)
-- 📚 [Wikinp Profile](https://wikinp.org/wiki/roshan-shrestha)
-- 🎬 [IMDb](https://www.imdb.com/name/nm17342721/)
+- 🧬 [ORCID](https://orcid.org/0009-0003-5739-5381)  
+- 🔬 [Loop Frontiers](https://loop.frontiersin.org/people/3254833/overview)  
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=vQu4O6UAAAAJ)  
+- 🛒 [Amazon Author Central](https://www.amazon.com/stores/Roshan-Shrestha/author/B0FW3WFTRS)  
+- 📖 [Goodreads Author](https://www.goodreads.com/author/show/49318443.Roshan_Shrestha)
 
 ---
 
-### 🔗 Social Media & Verified Profiles
+## 🧠 Knowledge & Media Presence  
 
-- 📰 [Muck Rack](https://muckrack.com/roshan-shrestha)
-- 🐦 [Twitter](https://x.com/roshantwit3)
-- 💬 [Mastodon](https://mastodon.social/@roshanshrestha)
+- 🎬 [IMDb](https://www.imdb.com/name/nm17342721/)  
+- 🌐 [WikiNP Verified Profile](https://wikinp.org/wiki/roshan-shrestha/)  
+- 🌐 [Fandom Wiki)](https://wikinp.fandom.com/wiki/Roshan_Shrestha)  
+- 🌐 [EverybodyWiki](https://en.everybodywiki.com/Roshan_Shrestha)  
+- 🌐 [Wikimonde Plus](https://plus.wikimonde.com/wiki/Roshan_Shrestha)  
+- 📰 [Muck Rack](https://muckrack.com/roshan-shrestha)  
+- 🧾 [The Org](https://theorg.com/org/khoj-samachar/org-chart/roshan-shrestha)  
+- 🗞 [Authory](https://authory.com/RoshanShrestha)  
+- 💬 [JournoPortfolio](https://roshanshrestha.journoportfolio.com)  
+- ✍️ [Medium](https://medium.com/@roshanjourno)  
+- 🧭 [About.me](https://about.me/roshan-shrestha-journalist)  
+
+
+---
+
+## 🔗 Social & Verified Profiles  
+
+- 🐦 [Twitter (X)](https://x.com/roshantwit3)  
 - 👥 [Facebook](https://www.facebook.com/roshanshresthaofficial)
-- 📸 [Instagram](https://www.instagram.com/roshanshrestha.ig/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/roshanshresthaofficial/)
-- 📺 [YouTube Channel](https://www.youtube.com/@roshanshrestha-official)
-- 🌐 [Gravatar](https://gravatar.com/roshanshresthajournalist)
-- 🏢 [The Org](https://theorg.com/org/khoj-samachar/org-chart/roshan-shrestha)
-- 📚 [Linktree](https://linktr.ee/roshanshresthaofficial)
-- 📰 [Medium](https://medium.com/@roshanjourno)
-- 🧭 [About.me](https://about.me/roshan-shrestha-journalist)
-- 💬 [authory](https://authory.com/RoshanShrestha)
-- 💬 [journoportfolio](https://roshanshrestha.journoportfolio.com/)
-- 🔗[substack](https://substack.com/@roshanshresthaofficial)
-- 🗣 [Truth Social](https://truthsocial.com/@roshanshrestha)
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/roshanshresthaofficial/)  
+- 📸 [Instagram](https://www.instagram.com/roshanshrestha.ig/)  
+- 📺 [YouTube](https://www.youtube.com/@roshanshrestha-official)  
+- 💬 [Mastodon](https://mastodon.social/@roshanshrestha)  
+- 🗣 [Truth Social](https://truthsocial.com/@roshanshrestha)  
+- 🌐 [Linktree](https://linktr.ee/roshanshresthaofficial)  
+- 🧩 [Gravatar](https://gravatar.com/roshanshresthajournalist)
 
 ---
 
-### 📧 Contact
-- 🌍 Website: [https://roshanstha.com](https://roshanstha.com)
+## 📧 Contact  
+
+🌍 **Website:** [roshanstha.com](https://roshanstha.com)  
+📨 **Email:** info@roshanstha.com  
+📍 **Base:** Kathmandu, Nepal  
 
 ---
 
-> 💡 Passionate about verified journalism, digital freedom, and open civic access through technology and trusted storytelling.
+> 💡 *Passionate about verified journalism, open data, and digital transformation through technology and youth innovation.*  
+> _Building Nepal’s digital knowledge ecosystem — one verified story at a time._  
+
+---
+
+📸 **Official Image:**  
+![Roshan Shrestha — Nepali investigative journalist and founder of Khoj Samachar](https://media.wikinp.org/wp-content/uploads/2025/10/roshan-shrestha-journalist-khoj-samachar-2025.jpg)
+
+© [WikiNP Media Commons](https://media.wikinp.org) — Released into the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
