@@ -1,7 +1,7 @@
 # 👋 Namaste! I'm Roshan Shrestha
 
-I’m a **Nepali investigative journalist, author, and digital media entrepreneur born in Bahrabise, Nepal.  
-Born on **October 14, 1996**, I’m the **Founder & Editor-in-Chief of [Khoj Samachar](https://khojsamachar.com)**,  
+I’m a Nepali investigative journalist, author, and digital media entrepreneur born in Bahrabise, Nepal.  
+I’m the **Founder & Editor-in-Chief of [Khoj Samachar](https://khojsamachar.com)**,  
 the **Initiator of [WikiNP](https://wikinp.org)** — Nepal’s first community-driven open knowledge platform —  
 and the **Creator of the [Roshan Shrestha App](https://play.google.com/store/apps/details?id=com.roshan.shrestha.roshan)**,  
 which promotes verified journalism, civic awareness, and digital transparency.
