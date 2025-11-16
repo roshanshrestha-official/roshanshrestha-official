@@ -1,6 +1,6 @@
 # 👋 Namaste! I'm Roshan Shrestha
 
-I’m a **Nepali investigative journalist, author, and digital media entrepreneur** from **Bahrabise, Sindhupalchok District, Nepal**.  
+I’m a **Nepali investigative journalist, author, and digital media entrepreneur born in Bahrabise, Nepal.  
 Born on **October 14, 1996**, I’m the **Founder & Editor-in-Chief of [Khoj Samachar](https://khojsamachar.com)**,  
 the **Initiator of [WikiNP](https://wikinp.org)** — Nepal’s first community-driven open knowledge platform —  
 and the **Creator of the [Roshan Shrestha App](https://play.google.com/store/apps/details?id=com.roshan.shrestha.roshan)**,  
@@ -12,12 +12,12 @@ I’m known for my **fearless reporting on corruption, youth empowerment, and th
 
 ## 🧭 About Me  
 
-📍 **Birthplace:** Bahrabise, Sindhupalchok District, Nepal  
-🎓 **Education:** *Shree Bachchhala Devi Higher Secondary School*, Nagpuje, Sindhupalchok  
+📍 **Birthplace:** Bahrabise, Nepal  
+🎓 **Education:** *Shree Bachchhala Devi Higher Secondary School*, Sindhupalchok  
 🗓 **Born:** 14 October 1996 (Aswin 28, 2053 B.S.)  
 
 I began my journey as a civic journalist during Nepal’s 2015 earthquake, documenting stories from disaster-hit areas using digital media.  
-In 2078 B.S., I founded **Khoj Samachar**, which today reaches over **900,000 verified readers** across Nepal and abroad.  
+In 2078 B.S., I founded **Khoj Samachar**, which today reaches over **10,00,000 verified readers** across Nepal and abroad.  
 
 In 2025, I authored two nonfiction books —  
 📘 *The Digital Voice of Nepal* and 📕 *KhojX: News Age* — exploring truth, media transparency, and youth participation in Nepal’s digital era.  
